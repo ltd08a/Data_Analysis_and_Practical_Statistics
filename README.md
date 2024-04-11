@@ -17,7 +17,7 @@ statsmodels
 ### Part I
 Investigate a Dataset: Using the tmdb-movies database, we will answer the question of which attributes correlate more closely to higher revenues. Multiple methods and visualizations are used to explore and analyze the data.
 ### Part II
-Analyze A/B Test Results: Using probability, A/B testing, and regression we will investigate a dataset to analyze a companies usage of a new landing page.
+Analyze A/B Test Results: Using probability, A/B testing, and regression we will investigate a dataset to analyze a company's usage of a new landing page.
 ### Files
 Analyze_AB_Test_Results.ipynb: A notebook exploring and analyzing data on a companies new landing page.  
 Investigate_a_Dataset.ipynb: A notebook used to analyze data from a tmdb_movie database and answer a business question.  
